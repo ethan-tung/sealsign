@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SealSign.Api/SealSign.Api.csproj" />
+    <Project Path="src/SealSign.Core/SealSign.Core.csproj" />
+    <Project Path="src/SealSign.Infrastructure/SealSign.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SealSign.Tests/SealSign.Tests.csproj" />
+  </Folder>
+</Solution>
